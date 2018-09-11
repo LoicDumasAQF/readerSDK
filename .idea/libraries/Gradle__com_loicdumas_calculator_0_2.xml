@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.loicdumas:calculator-0.2">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/calculator-0.2.aar/a8b7ce43d3868b43fcab47342091ca4a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/calculator-0.2.aar/a8b7ce43d3868b43fcab47342091ca4a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/com/loicdumas/calculator/0.2/calculator-0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

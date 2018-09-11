@@ -1,7 +1,0 @@
-#Internal package file, do not edit.
-#Tue Sep 11 13:57:27 CEST 2018
-0.baseType=DIRECTORY
-0.base=/Users/loic.dumas/repo/toDelete/sandBoxSubModules/BigProject/readerSDK/readerSDKApp/build/intermediates/transforms/dexMerger/debug/0
-0.path=classes.dex
-0.set=DEX
-count=1
