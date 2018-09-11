@@ -1,0 +1,4 @@
+#Tue Sep 11 13:57:26 CEST 2018
+base.0=/Users/loic.dumas/repo/toDelete/sandBoxSubModules/BigProject/readerSDK/readerSDKApp/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
