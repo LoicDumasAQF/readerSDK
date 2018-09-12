@@ -2,7 +2,6 @@ package com.loicdumas.readersdk
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
-import com.loicdumas.calculator.Calculator
 import com.loicdumas.readercalculatorlib.ReaderCalculator
 import kotlinx.android.synthetic.main.activity_main.*
 

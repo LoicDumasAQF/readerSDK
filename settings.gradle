@@ -1,1 +1,3 @@
-include ':readerSDKApp', ':readercalculatorlib'
+include ':readerSDKApp', ':calculator', ':readercalculatorlib'
+
+project(':calculator').projectDir = new File('../utilsProject/calculator')
