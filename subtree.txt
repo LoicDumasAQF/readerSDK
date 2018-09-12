@@ -1,1 +1,2 @@
 dummy commit before subtree
+dummy 2 commit before subtree
