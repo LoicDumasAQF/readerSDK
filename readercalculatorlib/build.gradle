@@ -35,7 +35,13 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 
 
-    implementation project(':calculator')
+    if (getRootProject().getSubprojects().find {it.name == "calculator"}) {
+        println("LAMADRG Je charge les sources")
+        implementation project(':calculator')
+    } else {
+        println("LAMADRG Je charge les lib")
+        implementation 'com.loicdumas:calculator:0.2'
+    }
 
 }
 repositories {
